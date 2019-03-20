@@ -1,0 +1,10 @@
+publisherKey: publisher_key
+appID: app_id
+keys:
+  - hashKey:  "519cf802db6921780d72af3a889c3b440bc14298a9eb78104c43ff26c4dcf4fa"
+    blockKey: "dc5afa2a84aa3faa59b69bcdea6cff22c88396d3b7a47e0f49062d7f106a1ec0"
+store:
+  type: filesystem
+  config:
+    path: /home/george/Projects/steam-downloader
+skipAuthRegex: 'demo'
